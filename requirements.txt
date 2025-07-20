@@ -1,1 +1,4 @@
-
+ultralytics
+torch
+opencv-python
+numpy

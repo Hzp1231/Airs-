@@ -6,11 +6,11 @@ setup(
     version='0.1',
     packages=find_packages(),
     install_requires=[
-        'ultralytics>=8.0.0',
-        'torch>=1.10',
+        'ultralytics',
+        'torch',
         'opencv-python',
         'numpy'
     ],
-    author='你的名字',
+    author='Hzp1231',
     description='A YOLOv8-based object detection project.',
 )
